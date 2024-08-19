@@ -36,5 +36,6 @@ Additionally, there's some new syntax to note of, used for in-line linking to an
 
 You can also put video files in-line here by dragging and dropping them into the editor. Some examples of this can be seen in the next section.
 
-# Next up: File management
+# Also see: File Management
 
+https://github.com/ennukee/vindi/blob/32f2b4ecdea674ff84ccc9c8af1f29b345170694/example/files.md
