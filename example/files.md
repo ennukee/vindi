@@ -35,3 +35,9 @@ https://github.com/user-attachments/assets/26b96903-c0a2-429c-a9f8-af50c7eaa126
 Don't try to use image link syntax, GitHub only in-lines files directly uploaded to their special domain.
 
 https://github.com/user-attachments/assets/59118f3d-9fdd-448e-9a5f-100c58ac5277
+
+## Linking to a file
+
+If you want to link directly to a boss MD for example, use the **"Copy permalink"** option in the (...) menu
+
+![image](https://github.com/user-attachments/assets/1be7f3b3-8f27-4c8e-a567-5c0d418ff536)
