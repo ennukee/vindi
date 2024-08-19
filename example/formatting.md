@@ -38,4 +38,4 @@ You can also put video files in-line here by dragging and dropping them into the
 
 # Also see: File Management
 
-https://github.com/ennukee/vindi/blob/32f2b4ecdea674ff84ccc9c8af1f29b345170694/example/files.md
+https://github.com/ennukee/vindi/blob/main/example/files.md
