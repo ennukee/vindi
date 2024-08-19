@@ -34,7 +34,9 @@ Additionally, there's some new syntax to note of, used for in-line linking to an
 
 ![](https://i.gyazo.com/f12631ac1fb7a9ed6ad6f1bd3855fa8f.png)
 
-You can also put video files in-line here by dragging and dropping them into the editor. Some examples of this can be seen in the next section.
+You can also put video files in-line here by dragging and dropping them into the editor
+
+https://github.com/user-attachments/assets/e3f3f0a7-6ab2-4e0a-9ec5-5dac1e73959a
 
 # Also see: File Management
 
